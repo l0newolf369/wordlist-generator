@@ -20,3 +20,7 @@ Usage
 2. Choose the desired options for combining numbers with the input string
 3. Enter the name of the output file
 4. The tool will generate the wordlist and save it to the specified file
+
+
+INSTALLATION:-
+
