@@ -710,16 +710,7 @@ def spc_1dgtnum_nm():                   # special character +  1 digit number + 
 
 
 def start():
-    print(Style.BRIGHT + Fore.LIGHTRED_EX + Back.GREEN  +"")
     
-    print(" _________________________________________________")
-    print("|                                                 |")
-    print("|        -----------------------------            |")
-    print("|        :    WORDLISTS GENERATOR    :            |")
-    print("|        -----------------------------            |")
-    print("|_________________________________________________|")
-    print(Style.RESET_ALL)
-    print(Fore.RESET+"")
     print(Fore.LIGHTYELLOW_EX)
     print('''
                                                                                 
@@ -1068,7 +1059,16 @@ def start():
         start()
 
 
+print(Style.BRIGHT + Fore.LIGHTRED_EX + Back.GREEN  +"")
     
+print(" _________________________________________________")
+print("|                                                 |")
+print("|        -----------------------------            |")
+print("|        :    WORDLISTS GENERATOR    :            |")
+print("|        -----------------------------            |")
+print("|_________________________________________________|")
+print(Style.RESET_ALL)
+print(Fore.RESET+"")
 print(Fore.LIGHTCYAN_EX + '''  INSTRUCTIONS : 
       
     >> Here you have to enter alphabates which is the name or any word phrase of target.
