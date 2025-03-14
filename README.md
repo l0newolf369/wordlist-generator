@@ -1,4 +1,4 @@
-README.md
+ifREADME.md
 
 Wordlists_generator
 
@@ -44,7 +44,9 @@ if it doesn't work then use the followings-
 
 3. Clone the repository:    
   
-    $.  git clone  https://github.com/l0newolf369/Wordlists_generator.git
+    $.  git clone https://github.com/l0newolf369/wordlist-generator.git
+
+if it the link doesn't work then just simply download the gif file from code (light green colour block) section at the top of the page
 
 4.Navigate to the repository directory:
 
