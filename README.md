@@ -26,15 +26,15 @@ INSTALLATION :
 
 1. First update the terminal:
 
-    $.  sudo apt update
+    $.      sudo apt update
 
   [if you don't have python then install it ]
  
-    $.  sudo apt install python3    
+    $.     sudo apt install python3    
 
 2. install the necessary package colorama
 
-    $.   pip3 install colorama
+    $.      pip3 install colorama
  
 if it doesn't work then use the followings-
 
