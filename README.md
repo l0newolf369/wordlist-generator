@@ -24,6 +24,11 @@ Usage
 
 INSTALLATION : 
 
+
+
+FOR LINUX:-
+
+
 1. First update the terminal:
 
     $.      sudo apt update
@@ -55,6 +60,37 @@ if it the link doesn't work then just simply download the gif file from code (li
 5.Run the tool: 
 
     $.   python3 Wordlist.py
+
+
+
+FOR TERMUX:-
+
+1. First update the terminal:
+
+      $.      sudo apt update
+
+  [if you don't have python then install it ]
+ 
+      $.     sudo apt install python3    
+
+2. install the necessary package colorama
+
+      $.      pip3 install colorama
+
+
+3. Clone the repository:    
+  
+      $.  git clone https://github.com/l0newolf369/wordlist-generator.git
+
+if it the link doesn't work then just simply download the gif file from code (light green colour block) section at the top of the page
+
+4.Navigate to the repository directory:
+
+      $.  cd Wordlists_generator
+
+5.Run the tool: 
+
+     $.   python3 Wordlist.py
 
 
 
