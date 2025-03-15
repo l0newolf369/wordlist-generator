@@ -27,6 +27,8 @@ INSTALLATION :
 
 
 FOR LINUX:-
+-------------
+
 
 
 1. First update the terminal:
@@ -63,7 +65,11 @@ if it the link doesn't work then just simply download the gif file from code (li
 
 
 
+
+
 FOR TERMUX:-
+-----------------
+
 
 1. First update the terminal:
 
